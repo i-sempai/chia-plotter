@@ -1,7 +1,7 @@
 This is a new implementation of a chia plotter which is designed as a processing pipeline, similar to how GPUs work, only the "cores" are normal software CPU threads.
 As a result this plotter is able to fully max out any storage device's bandwidth, simply by increasing the number of "cores", ie. threads.
 
-### [Dowload last release v0.1.1](https://github.com/stotiks/chia-plotter/releases/latest)
+### [Dowload last release v0.1.1](https://github.com/i-sempai/chia-plotter/releases/latest)
 ### Usage
 
 ```
